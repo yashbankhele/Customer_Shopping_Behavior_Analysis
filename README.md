@@ -108,9 +108,6 @@ An interactive dashboard was created to visualize:
 
 ---
 
-
----
-
 ## Conclusion
 This project demonstrates an end-to-end data analytics workflow including data cleaning, exploratory data analysis, SQL-based business analysis, and dashboard visualization. The project highlights how data can be used to generate meaningful business insights and support data-driven decision-making.
 
